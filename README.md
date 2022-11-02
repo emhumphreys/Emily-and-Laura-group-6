@@ -1,2 +1,2 @@
 # Emily and Laura group 6
- another attempt
+ Code First Girls Project
